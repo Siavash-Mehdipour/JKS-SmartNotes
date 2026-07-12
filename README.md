@@ -43,7 +43,7 @@ Special Features:
 * Search function with tag filtering.
 * Potential for future extensions due to its modular design.
 
-##Project Structure
+## Project Structure
 ```text
 JKS-SmartNotes/
 │
@@ -75,6 +75,7 @@ JKS-SmartNotes/
 └── jks_notiz_db.sql
 ```
 
+
 ## Technical Implementation
 The application was developed using Java in the NetBeans development environment. The FlatLaf library was used for the UI design to ensure a modern appearance.
 The database used was MySQL, operated via XAMPP/phpMyAdmin, connected using the MySQL Connector.
@@ -99,7 +100,6 @@ We were able to improve important programming and project work skills:
 * Database modeling
 * Password security
 * Team coordination with Kanban
-
 Future potential:
 * Sharing function
 * Mobile version
@@ -107,4 +107,4 @@ Future potential:
 * User roles
 
 ## Author
-Created by Siavash Mehdipourataei
+Created by Siavash Mehdipouraraei
