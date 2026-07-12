@@ -34,6 +34,7 @@ Some originally planned features could not be completed due to time constraints:
 * Sharing notes with other users:
 * Deleting and editing notes:
 * User roles (e.g., Admin, Guest, Premium User…)
+
 These points have been documented and can be added in a future version.
 
 Special Features:
