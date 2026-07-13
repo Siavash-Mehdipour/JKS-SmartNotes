@@ -109,6 +109,6 @@ Future potential:
 
 ## Authors
 Developed by:
-- Siavash Mehdipouraraei
+- Siavash Mehdipourataei
 - Jaspreet Singh
 - Krish Sarna
