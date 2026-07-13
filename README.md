@@ -1,5 +1,5 @@
 # JKS-SmartNotes
-A simple note-taking app build with Java and XAMPP.
+JKS SmartNotes is a Java-based note-taking application with MySQL database integration, developed as a team project.
 
 ## About the Projekt
 **JKS-SmartNotes** is a Java-based note-taking app with a graphical user interface (GUI) and a MySQL database connection (XAMPP). Our users can create, save, and categorize personal notes with tags.
@@ -107,5 +107,8 @@ Future potential:
 * Markdown support
 * User roles
 
-## Author
-Created by Siavash Mehdipouraraei
+## Authors
+Developed by:
+- Siavash Mehdipouraraei
+- Jaspreet Singh
+- Krish Sarna
